@@ -1,0 +1,46 @@
+For the Cleaning Data 
+
+Original rows 64535 
+
+Basic Cleansing 
+
+1) Type 1 to 61894 rows 
+2) Structure type 1 to 41216 row 
+3) Deleted Under Value 1000 - 32825 rows 
+
+----------------------------------------------
+
+4) In  AGE1 deleted -9  = 31785 Rows 
+5) ZINC2 Deleted 0 and negative values =31319 rows   - Prof debajo de 1000  
+6) Utility Deleted 0  = 31295 Rows 
+7) Other Cost deleted 0 = 30177 Rows 
+   
+
+
+
+
+***Columns Deleted as they all have the same value 
+Type 
+Structure type 
+Nunits = 1
+Status all is 1 "Occupied"
+
+ZSMH is deleted because Other cost colum exits 
+
+
+
+
+You can't take the logarithm of a negative number or of zero
+The logarithm of a positive number may be negative
+
+
+
+Category Value 
+
+Collapse categories METRO 3 	
+	1: Central city area  
+	2,3,4,5 : Not central City area 
+
+
+
+
